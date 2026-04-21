@@ -1,7 +1,5 @@
 # 👨‍💻 Jirawad Sadjayat
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jirawad&label=Profile%20views&color=0e75b6&style=flat" alt="jirawad" />
-</p>
+<br/>
 
 ## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/typing%20(1).gif" width="30px"> I'm a 
 <a href="https://git.io/typing-svg">
@@ -49,9 +47,6 @@
 <p align="left">
   <a href="https://github.com/jirawad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
