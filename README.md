@@ -1,4 +1,4 @@
-# 👨‍💻 Jirawad Sadjayat (6652410033)
+# 👨‍💻 Jirawad Sadjayat
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jirawad&label=Profile%20views&color=0e75b6&style=flat" alt="jirawad" />
 </p>
@@ -34,7 +34,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirawadl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jirawad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirawad&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
