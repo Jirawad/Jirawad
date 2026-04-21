@@ -3,7 +3,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/typing%20(1).gif" width="30px"> I am a 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&width=435&lines=Digital+Tech+Student;Full-stack+Enthusiast;React+Native+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&width=435&lines=Digital+Tech+Student;Full-stack+Enthusiast;React+Native+Developer;Aspiring+" alt="Typing SVG" />
 </a>
 
 ---
